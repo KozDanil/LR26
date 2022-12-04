@@ -6,7 +6,7 @@
 
 
 
-![РИСУНОК](https://gspics.org/images/2022/12/04/0XYwjZ.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XqqQ3.png)  
 
 Рисунок 26.1 - Окно Hierarchy
 
